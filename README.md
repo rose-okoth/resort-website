@@ -10,8 +10,8 @@
 
 
 #project setup instructions: 
+    It was built using HTML and CSS.
 
-    
 
 #link to live site on GitHub Pages: 
 
