@@ -14,6 +14,7 @@
 
 
 #link to live site on GitHub Pages: 
+    https://rose-okoth.github.io/resort-website
 
 
 #copyright and license information: 
